@@ -1,5 +1,5 @@
 // This is your Telerik Backend Services API key.
-var baasApiKey = 'BAAS_API_KEY';
+var baasApiKey = 'ruR6vhlJYSftGLmU';
 
 // This is the scheme (http or https) to use for accessing Telerik Backend Services.
 var baasScheme = 'http';
